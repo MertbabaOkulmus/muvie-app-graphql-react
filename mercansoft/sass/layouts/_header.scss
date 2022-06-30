@@ -1,0 +1,17 @@
+.header{
+    min-height: 8rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+
+    &_logo{
+
+    }
+
+    &_social-nav{
+      position: absolute;
+    right: 5%;
+    top: 2%;
+    }
+  }

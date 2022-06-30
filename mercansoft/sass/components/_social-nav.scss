@@ -1,0 +1,18 @@
+.social-nav{
+    &_list{
+        display: flex;
+        justify-content: space-between;
+        list-style: none;
+        
+    }
+    &_item{}
+
+    &_link{
+       &,
+       &:link,
+       &:visited{
+          padding: .5rem;
+          text-decoration: none;
+       }
+    }
+}
