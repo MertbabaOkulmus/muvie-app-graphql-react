@@ -1,0 +1,17 @@
+body{
+    height: 100vh;/*vh görünen ekran ın oranları için kullanılır, 100vh görünen ekranın 100% kullan */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+   background-color: red;
+   height: 85%;
+   width: 75%;
+}
+.left-side{
+
+}
+.right-side{
+
+}
